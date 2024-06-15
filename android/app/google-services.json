@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749520006694",
+    "project_id": "social-fit-e79f1",
+    "storage_bucket": "social-fit-e79f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749520006694:android:5761a07630942c25fd80e7",
+        "android_client_info": {
+          "package_name": "com.example.social_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVmBQpDqAilo9zbsGXhwYIYQCT-SPvjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
