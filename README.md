@@ -8,7 +8,7 @@ The user can do the right exercises at home or anywhere they want, they just nee
 State Management : Getx,Provider
 Model : PoseNET model
 Development Model : Incremental Model
-APIs : pythonanywhere and strengthAPI
+APIs : pythonanywhere (customized API hosted) and strengthAPI
 Backend : Firebase (authenication, storage , firestore database) 
 Local Notifications as well
 
